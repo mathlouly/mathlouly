@@ -2,8 +2,8 @@
 
 <h3 align="center">A Full Stack Developer</h3>
 
-<div aling="center">
-  <p>Programming Language</p>
+<div align="center">
+  <p>Programming Languages</p>
   <p>
     <img src="https://github.com/mathlouly/mathlouly/blob/main/html-icon.png" alt="html" width="60" height="60"/>
     <img src="https://github.com/mathlouly/mathlouly/blob/main/css-icon.png" alt="css" width="60" height="60"/>
@@ -12,7 +12,6 @@
     <img src="https://github.com/mathlouly/mathlouly/blob/main/python-icon.png" alt="python" width="60" height="60"/>
     <img src="https://github.com/mathlouly/mathlouly/blob/main/csharp-icon.png" alt="csharp" width="60" height="60"/>
     <img src="https://github.com/mathlouly/mathlouly/blob/main/dart-icon.png" alt="dart" width="60" height="60"/>
-    <img src="https://github.com/mathlouly/mathlouly/blob/main/html-icon.png" alt="java" width="60" height="60"/>
   </p>
 </div>
 
@@ -27,7 +26,7 @@
 </div>
 
 <div align="center">
-  <p>DevOps Frameworks</p>
+  <p>DevOps</p>
   <p>
     <img src="https://github.com/mathlouly/mathlouly/blob/main/docker-icon.png" alt="docker" width="60" height="60"/>
     <img src="https://github.com/mathlouly/mathlouly/blob/main/digitalocean-icon.png" alt="digitalocean" width="60" height="60"/>
@@ -35,7 +34,7 @@
 </div>
 
 <div align="center">
-  <p>Database</p>
+  <p>Databases</p>
   <p>
     <img src="https://github.com/mathlouly/mathlouly/blob/main/mongodb-icon.png" alt="mongodb" width="60" height="60"/>
     <img src="https://github.com/mathlouly/mathlouly/blob/main/sqlserver-icon.png" alt="sqlserver" width="60" height="60"/>
@@ -52,10 +51,12 @@
 
 #### Contact Info
 
-<a href="https://www.linkedin.com/in/matheuslouly/">
-  <img src="https://github.com/mathlouly/mathlouly/blob/main/linkedin-icon.png" alt="linkedin" width=40 height="40">
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheuslouly/">
+    <img src="https://github.com/mathlouly/mathlouly/blob/main/linkedin-icon.png" alt="linkedin" width="60" height="60">
+  </a>
 
-<a href="https://api.whatsapp.com/send?phone=5562996848115">
-  <img src="https://github.com/mathlouly/mathlouly/blob/main/whatsapp-icon.png" alt="whatsapp" width=40 height="40">
-</a>
+  <a href="https://api.whatsapp.com/send?phone=5562996848115">
+    <img src="https://github.com/mathlouly/mathlouly/blob/main/whatsapp-icon.png" alt="whatsapp" width="60" height="60">
+  </a>  
+</div>
