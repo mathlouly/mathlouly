@@ -56,14 +56,6 @@
 
 <br/> 
 
-### Github Stats
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mathlouly&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathlouly&layout=compact&hide_border=true&theme=chartreuse-dark" align="center" />
-</div>
-
-<br/> 
-
 ### Contact
 <div align="left">
 <a href="https://www.linkedin.com/in/matheuslouly/">
